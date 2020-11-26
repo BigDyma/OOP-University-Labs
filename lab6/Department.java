@@ -1,4 +1,4 @@
-package com.jeka.lab6;
+//lab6;
 
 import java.util.ArrayList;
 
